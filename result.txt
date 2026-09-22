@@ -1,0 +1,63 @@
+Total objects detected: 3
+
+Detection 1:
+  ClassID: 44
+  Class Name: bottle
+  Confidence: 0.84
+  Left: 57.71
+  Top: 54.47
+  Right: 196.90
+  Bottom: 336.47
+  Width: 139.19
+  Height: 282.00
+  Area: 39250.53
+  Center: (127.30, 195.47)
+--------------------------------------------------
+Detection 2:
+  ClassID: 44
+  Class Name: bottle
+  Confidence: 0.87
+  Left: 295.47
+  Top: 63.66
+  Right: 430.76
+  Bottom: 348.59
+  Width: 135.29
+  Height: 284.94
+  Area: 38548.65
+  Center: (363.12, 206.12)
+--------------------------------------------------
+Detection 3:
+  ClassID: 44
+  Class Name: bottle
+  Confidence: 0.95
+  Left: 184.32
+  Top: 53.52
+  Right: 306.79
+  Bottom: 343.67
+  Width: 122.46
+  Height: 290.15
+  Area: 35532.44
+  Center: (245.56, 198.59)
+--------------------------------------------------
+[image]  saved 'output.jpg'  (515x388, 3 channels)
+
+
+
+Total objects detected: 1
+
+Detection 1:
+  ClassID: 44
+  Class Name: bottle
+  Confidence: 0.93
+  Left: 82.84
+  Top: 25.43
+  Right: 138.54
+  Bottom: 198.63
+  Width: 55.70
+  Height: 173.20
+  Area: 9647.33
+  Center: (110.69, 112.03)
+--------------------------------------------------
+[image]  saved 'output.jpg'  (225x225, 3 channels)
+
+
